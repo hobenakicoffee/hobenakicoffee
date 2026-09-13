@@ -1,44 +1,46 @@
-# হবে নাকি Coffee? — Start a Business, We'll Do the Heavy Lifting
+<div align="center">
 
-Welcome to হবে নাকি Coffee? — a platform built to help people across Bangladesh launch and grow small businesses with minimal friction.
+<img src="logo-card.svg" alt="হবে নাকি Coffee?" width="280" />
 
-**Our Promise:** With us, anyone can start a business. We handle the heavy lifting so you can focus on what you do best.
+**A creator monetization platform, built for Bangladesh.**
 
-**Why we exist**
+[hobenakicoffee.com](https://hobenakicoffee.com)
 
-- Bangladesh has immense creative energy and entrepreneurial talent. Many great ideas never launch because of the complexity of business setup and operations.
-- We remove those barriers by offering tools, services, and a community that make starting and running a business simple and affordable.
+</div>
 
-**Who this is for**
+<br />
 
-- Aspiring entrepreneurs with an idea and limited time or capital
-- Creators who want to monetize talents without getting bogged down by operations
-- Small teams who need infrastructure, marketing, and logistics support
+### What we're building
 
-**How it works (3 simple steps)**
+হবে নাকি Coffee? gives Bangladeshi creators — YouTubers, podcasters, writers, educators, artists, and musicians — one page to turn an audience into income. Fans send one-time support or subscribe to memberships and paywalled newsletters; creators sell digital downloads and physical goods through a built-in shop. No trade license, TIN, or merchant account required to get started — it's priced in BDT, paid out through local rails, and built bilingual (বাংলা/English) from the ground up.
 
-1. Tell us your idea — product, service, or cafe concept.
-2. We set up the business backbone — legal, payments, store or landing pages, and marketing basics.
-3. You sell, create, and serve — we run operations, fulfillment, and growth support.
+### Core features
 
-**What we do for you**
+| | |
+|---|---|
+| ☕ **Coffee Gifts** | One-tap fan support with a personal message — no subscription required |
+| 📰 **Newsletter** | Free, member-exclusive, or paid posts |
+| 💳 **Memberships** | Recurring monthly support with automatic billing |
+| 🛍️ **Shop** | Digital downloads and physical goods, cash-on-delivery supported |
 
-- Business setup assistance (legal & compliance basics for local context)
-- Payment integration and simple storefronts or landing pages
-- Marketing and branding support tailored to local markets
-- Logistics and fulfillment guidance
-- Ongoing operational help so you can scale gradually
+Also included: one account for both creating and supporting, NID-based identity verification, weekly/monthly earnings insights, universal search, in-app messaging, and withdrawals via bKash, Nagad, Rocket, or bank transfer.
 
-**Values**
+### Coming soon
 
-- Accessible: Simple pricing and clear steps for everyone
-- Local-first: Built with Bangladesh's people and markets in mind
-- Practical: We focus on actions that drive revenue and sustainability
+- 🎙️ **Podcast** hosting and monetization
+- 📞 **1-on-1 Sessions** — paid calls and coaching
+- 🎓 **School** — video courses with quizzes
+- 💼 **Hiring Services**
+- 🗂️ **Flashcards**
 
-Join us
+### Get in touch
 
-- Ready to start? Reach out, share your idea, and let’s get your business running. `হবে নাকি Coffee?` is about making entrepreneurship possible for more people in Bangladesh.
+Creator, developer, or just curious? Start at [hobenakicoffee.com](https://hobenakicoffee.com).
 
-— The হবে নাকি Coffee? team
+<br />
 
-_Made with pride in Bangladesh._
+<div align="center">
+
+Made with ❤️ in Dhaka, Bangladesh
+
+</div>
